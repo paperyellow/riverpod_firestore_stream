@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062198489489",
+    "project_id": "riverpod-firestore-strea-4e9da",
+    "storage_bucket": "riverpod-firestore-strea-4e9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062198489489:android:ddc2abb284fa301319aa30",
+        "android_client_info": {
+          "package_name": "shop.mtcoding.riverpod_firestore_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062198489489-a24c0q54tmt5vvog73esdqb49b80khfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjq5qPGz03aoTkAymeQPwAE_OPc3tXVqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062198489489-a24c0q54tmt5vvog73esdqb49b80khfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
